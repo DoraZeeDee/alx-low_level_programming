@@ -3,15 +3,16 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point
- *
- * Result: Always 0 (Success)
+ * main -Entry point
+ * Result: Always 0 (Success/correct)
  */
+
 int main(void)
-	/** void my_function (void)*/
+
 
 {
-int n;
+
+	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
