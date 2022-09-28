@@ -2,12 +2,13 @@
 
 /**
  * print_triangle - check for a digit
- *  @size : integer type
- *   Return:void
+ * @size : integer type
+ * Return:void
  */
 
 void print_triangle(int size)
 {
+
 	int i = 1, ii;
 
 	while (i <= size && size > 0)
@@ -24,6 +25,7 @@ void print_triangle(int size)
 			_putchar('#');
 			ii++;
 		}
+
 		_putchar('\n');
 		i++;
 	}
