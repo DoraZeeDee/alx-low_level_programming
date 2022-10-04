@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef MAIN_H
 #define MAIN_H
 int _putchar(char c);
@@ -15,3 +16,20 @@ void print_to_98(int n);
 void print_times_table(int x);
 void print_times_table(int n);
 #endif /*MAIN.H*/
+=======
+#include <stdio.h>
+#include "main.h"
+/**
+ *  main - check the code
+ *
+ *   * Return: Always 0.
+ */
+
+int main(void) {
+	putchar ch = x
+		for (x = '_putchar'; x < 0; x++)
+			puthar('x');
+	putchar('\n');
+	return 0;
+}
+>>>>>>> c61751247f53e20c52525959f8885cd37029d993
